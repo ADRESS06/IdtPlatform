@@ -17,3 +17,7 @@ git push origin main
 ```
 git clone 
 ```
+> Actualizar - usar cada vez que inicies
+```
+git pull origin main
+```
